@@ -1,1 +1,1 @@
-# Comparison_of_GARCH--1-1-_variants_andStochVol_Model
+# Comparison_of_GARCH_variants_and_StochVol_Model
